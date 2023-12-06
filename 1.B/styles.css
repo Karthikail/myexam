@@ -1,0 +1,92 @@
+styles.css
+﻿body {
+    background-color: aliceblue;
+}
+h1 {
+    color:  indigo;
+    text-align:center;
+    font-style: unset;
+    font-family: 'Comic Sans MS';
+    font-size: 48px;
+    background-color: rgb(55, 0, 255);
+    font-feature-settings:"kern";
+   
+   
+}
+.container {
+    background-color: rgb(182, 164, 164);
+    width: 425px;
+    height: 425px;
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+    background-repeat: no-repeat;
+    border: 0.2px solid;
+    border-color: rgb(103, 103, 95);
+}
+
+h2 {
+    color: darkblue;
+    font-family: 'Comic Sans MS';
+    font-style:revert-layer;
+}
+
+p {
+    color: darkblue;
+    font-size: 20px;
+    font-style: unset;
+    font-family:'Cascadia Code';
+}
+p1{
+    text-align: center;
+    color: black;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px auto;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    border: 2px solid #7acab3;
+    padding: 7px;
+}
+td {
+    background-color: rgb(190, 139, 156);
+}
+
+th {
+    background-color: rosebrown;
+    color: black;
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    display: block;
+    margin: 30px auto;
+    border-radius: 100px;
+    border-color: yellow;
+    border: 0.5px;
+   
+}
+
+ul {
+    list-style-type: square;
+}
+
+
+footer{
+    border: 2px dotted;
+    height: auto;
+    width: 200px;
+}
